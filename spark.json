@@ -1,0 +1,7 @@
+{
+  "name": "SparkFunRHT03",
+  "author": "Jim Lindblom <jim@sparkfun.com>",
+  "license": "MIT",
+  "version": "1.0.4",
+  "description": "A simple library for RHT03 temperature and humidity sensor, which communicates over a 1-wire digital interface."
+}
