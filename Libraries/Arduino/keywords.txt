@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For RHT03
+#######################################
+
+#######################################
+# Library (KEYWORD1)
+#######################################
+
+RHT03			KEYWORD1	
+SparkFunRHT03 	KEYWORD1
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#Nothing here yet
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin                         KEYWORD2
+begin                         KEYWORD2
+update                        KEYWORD2
+tempC                         KEYWORD2
+tempF                         KEYWORD2
+humidity                      KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+RHT_READ_INTERVAL_MS 1000    LITERAL1
