@@ -1,4 +1,4 @@
-starRHT03
+RHT03
 =====
 
 [![RHT03](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/1/6/7/10167-01_i_ma.jpg)  
