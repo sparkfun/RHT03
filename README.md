@@ -1,4 +1,4 @@
-RHT03
+starRHT03
 =====
 
 [![RHT03](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/1/6/7/10167-01_i_ma.jpg)  
@@ -9,8 +9,24 @@ The RHT03 (also known as the DHT-22) is a low cost humidity and temperature sens
 Repository Contents
 -------------------
 * **/Firmware** - Example code to run the RHT03
+* **/Libraries** - Libraries for use with the <PRODUCT NAME>
+
+Documentation
+--------------
+* **[Arduino Library](https://github.com/sparkfun/SparkFun_RHT03_Arduino_Library)** 
+* **[Particle Library](https://github.com/sparkfun/SparkFun_RHT03_Particle_Library)** 
+* **[Example Guide](https://learn.sparkfun.com/tutorials/iot-hobby-kit-experiment-guide)** - Basic hookup and experiment guide
+
 
 License Information
 -------------------
-All other code is open source so please feel free to do anything you want with it; 
-you buy me a beer if you use this and we meet someday ([Beerware license](http://en.wikipedia.org/wiki/Beerware)).
+
+This product is _**open source**_! 
+
+Please review the LICENSE.md file for license information. 
+
+If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
+
+Distributed as-is; no warranty is given.
+
+- Your friends at SparkFun.
