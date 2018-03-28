@@ -14,7 +14,7 @@ Documentation
 --------------
 * **[Arduino Library](https://github.com/sparkfun/SparkFun_RHT03_Arduino_Library)** 
 * **[Particle Library](https://github.com/sparkfun/SparkFun_RHT03_Particle_Library)** 
-* **[Example Guide](https://learn.sparkfun.com/tutorials/iot-hobby-kit-experiment-guide)** - Basic hookup and experiment guide
+* **[Example Experiment](https://learn.sparkfun.com/tutorials/internet-of-things-experiment-guide/experiment-1-temperature-and-humidity-logging)** - Basic hookup and experiment guide
 
 
 License Information
