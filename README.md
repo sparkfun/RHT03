@@ -13,9 +13,9 @@ Repository Contents
 Documentation
 --------------
 * **[Arduino Library](https://github.com/sparkfun/SparkFun_RHT03_Arduino_Library)** 
+  * **[ESP8266 Example](https://learn.sparkfun.com/tutorials/internet-of-things-experiment-guide/experiment-1-temperature-and-humidity-logging)** - Basic hookup and experiment guide for the ESP8266
 * **[Particle Library](https://github.com/sparkfun/SparkFun_RHT03_Particle_Library)** 
-* **[Example Experiment](https://learn.sparkfun.com/tutorials/internet-of-things-experiment-guide/experiment-1-temperature-and-humidity-logging)** - Basic hookup and experiment guide
-
+  * **[Particle Photon Example](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-for-photon-experiment-guide/experiment-6-environment-monitor)** - Basic hookup and experiment guide for the Particle Photon
 
 License Information
 -------------------
