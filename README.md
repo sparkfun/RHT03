@@ -14,6 +14,7 @@ Documentation
 --------------
 * **[Installing an Arduino library](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
 * **[Arduino Library](https://github.com/sparkfun/SparkFun_RHT03_Arduino_Library)** - Code for Arduino
+  * [Hookup Guide](https://learn.sparkfun.com/tutorials/rht03-dht22-humidity-and-temperature-sensor-hookup-guide) - Hookup Guide for the RHT03 to read sensor data.
   * **[ESP8266 Example](https://learn.sparkfun.com/tutorials/internet-of-things-experiment-guide/experiment-1-temperature-and-humidity-logging)** - Basic hookup and experiment guide for the ESP8266 that uses the Arduino library
 * **[Particle Library](https://github.com/sparkfun/SparkFun_RHT03_Particle_Library)** - Code for Particle Photon.
   * **[Particle Photon Example](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-for-photon-experiment-guide/experiment-6-environment-monitor)** - Basic hookup and experiment guide for the Particle Photon
