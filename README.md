@@ -8,7 +8,7 @@ The RHT03 (also known as the DHT-22) is a low cost humidity and temperature sens
 
 Repository Contents
 -------------------
-* **/Libraries** - Libraries for use with the RHT03
+* **/Libraries** - Archived Libraries for use with the RHT03
 
 Documentation
 --------------
