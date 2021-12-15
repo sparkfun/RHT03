@@ -99,6 +99,13 @@ int RHT03::update()
     {
         _humidity = ((uint16_t) dataBytes[HUMIDITY_H] << 8) | dataBytes[HUMIDITY_L];
         _temperature = ((uint16_t) dataBytes[TEMP_H] << 8) | dataBytes[TEMP_L];
+	// mod for negative values
+	bool sign;
+	sign = _temperature & 0x8000;
+	if (sign) {
+		_temperature = -(_temperature & 0x7FFF);
+	}
+	// end of mod
         return 1;
     }
     else
