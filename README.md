@@ -1,6 +1,8 @@
 RHT03
 =====
 
+**This repo is deprecated.** Please see the RHT03 library for [Arduino](https://github.com/sparkfun/SparkFun_RHT03_Arduino_Library) or for [Particle](https://github.com/sparkfun/SparkFun_RHT03_Particle_Library).
+
 [![RHT03](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/1/6/7/10167-01_i_ma.jpg)  
 *RHT03 Humidity and Temperature Sensor (SEN-10167)*](https://www.sparkfun.com/products/10167)
 
